@@ -20,7 +20,7 @@ Copyright (c) 2026 Zorvia Community
 https://github.com/Zorvia
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the “Software”), to use,
+of this software and associated documentation files (the "Software"), to use,
 copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
 the Software, subject to the following conditions:
 
@@ -34,7 +34,7 @@ the Software, subject to the following conditions:
 2. **Trademarks**
    - The names "Zorvia," "Zorvia Community," and associated logos may not be
      used to endorse or promote derivative works without prior written permission.
-   - Derivatives may reference the Software descriptively (e.g., "Modified OpenSciGraph")
+   - Derivatives may reference the Software descriptively (e.g., "Modified")
      while maintaining clear attribution.
 
 3. **Permitted Use**
@@ -65,7 +65,7 @@ the Software, subject to the following conditions:
      property laws.
 
 8. **Warranty Disclaimer**
-   - The Software is provided “as-is” without warranty of any kind.
+   - The Software is provided "as-is" without warranty of any kind.
    - This includes, but is not limited to, warranties of merchantability, fitness
      for a particular purpose, accuracy, security, or non-infringement.
 
