@@ -29,7 +29,7 @@ the Software, subject to the following conditions:
      the ASCII logo above, and give credit to Zorvia Community.
    - Public-facing materials (documentation, websites, demos, videos) must clearly
      state: 
-       "OpenSciGraph — Developed by Zorvia Community, 2026 (https://github.com/Zorvia)".
+       "Developed by Zorvia Community, 2026 (https://github.com/Zorvia)".
 
 2. **Trademarks**
    - The names "Zorvia," "Zorvia Community," and associated logos may not be
